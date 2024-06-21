@@ -39,7 +39,9 @@ namespace WebBanHang
             services.AddScoped<IEmailSender, EmailSender>();
             services.ConfigureApplicationCookie(option =>
             {
-                option.LoginPath = "/Identity/Account"
+                option.LoginPath = "/Identity/Account/Login";
+                option.AccessDeniedPath = "/Identity/Account/AccessDeniedPath";
+                option.LogoutPath = "/Identity/Account/Logout";
             });
 
             
