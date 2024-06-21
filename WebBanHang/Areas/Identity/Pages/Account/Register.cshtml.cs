@@ -11,29 +11,34 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
+using WebBanHang.Models;
 
 namespace WebBanHang.Areas.Identity.Pages.Account
 {
     [AllowAnonymous]
     public class RegisterModel : PageModel
     {
-        private readonly SignInManager<IdentityUser> _signInManager;
-        private readonly UserManager<IdentityUser> _userManager;
+        private readonly SignInManager<ApplicationUser> _signInManager;
+        private readonly UserManager<ApplicationUser> _userManager;
         private readonly ILogger<RegisterModel> _logger;
         private readonly IEmailSender _emailSender;
+        private readonly RoleManager<IdentityRole> _roleManager;
 
         public RegisterModel(
-            UserManager<IdentityUser> userManager,
-            SignInManager<IdentityUser> signInManager,
+            UserManager<ApplicationUser> userManager,
+            SignInManager<ApplicationUser> signInManager,
             ILogger<RegisterModel> logger,
-            IEmailSender emailSender)
+            IEmailSender emailSender,
+            RoleManager<IdentityRole> roleManager)
         {
             _userManager = userManager;
             _signInManager = signInManager;
             _logger = logger;
             _emailSender = emailSender;
+            _roleManager = roleManager;
         }
 
         [BindProperty]
@@ -60,12 +65,29 @@ namespace WebBanHang.Areas.Identity.Pages.Account
             [Display(Name = "Confirm password")]
             [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
             public string ConfirmPassword { get; set; }
+            public string FullName { get; set; }
+          
+            public DateTime Brithday { get; set; }
+            
+            public string Role { get; set; }
+            public IEnumerable<SelectListItem> RoleList { get; set; }
         }
 
         public async Task OnGetAsync(string returnUrl = null)
         {
+            if (!_roleManager.RoleExistsAsync(ShareData.Role_Admin).GetAwaiter().GetResult())
+            {
+                _roleManager.CreateAsync(new IdentityRole(ShareData.Role_Admin)).GetAwaiter().GetResult();
+                _roleManager.CreateAsync(new IdentityRole(ShareData.Role_Cust)).GetAwaiter().GetResult();    
+                _roleManager.CreateAsync(new IdentityRole(ShareData.Role_Empl)).GetAwaiter().GetResult();
+            }
+            Input = new InputModel
+            {
+                RoleList = _roleManager.Roles.Select(x => x.Name).Select(x=> new SelectListItem { Text = x, Value = x })
+            };
             ReturnUrl = returnUrl;
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
+
         }
 
         public async Task<IActionResult> OnPostAsync(string returnUrl = null)
@@ -74,12 +96,21 @@ namespace WebBanHang.Areas.Identity.Pages.Account
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
             if (ModelState.IsValid)
             {
-                var user = new IdentityUser { UserName = Input.Email, Email = Input.Email };
+                var user = new ApplicationUser { UserName = Input.Email, Email = Input.Email,FullNamme=Input.FullName,Brithday=Input.Brithday };
                 var result = await _userManager.CreateAsync(user, Input.Password);
                 if (result.Succeeded)
                 {
+                    // adduers
                     _logger.LogInformation("User created a new account with password.");
+                    if (!string.IsNullOrEmpty(Input.Role))
+                    {
+                        await _userManager.AddToRoleAsync(user, Input.Role);
 
+                    }
+                    else
+                    {
+                        await _userManager.AddToRoleAsync(user, ShareData.Role_Cust);
+                    }
                     var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);
                     code = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(code));
                     var callbackUrl = Url.Page(

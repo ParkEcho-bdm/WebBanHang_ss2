@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 using WebBanHang.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.UI.Services;
 
 namespace WebBanHang
 {
@@ -30,8 +31,16 @@ namespace WebBanHang
             services.AddControllersWithViews();
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("name=DefaultConnection"));
             services.AddSession();
-            services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<ApplicationDbContext>();
+            services
+                .AddIdentity<ApplicationUser,IdentityRole>()
+                .AddEntityFrameworkStores<ApplicationDbContext>()
+                .AddDefaultTokenProviders();
             services.AddRazorPages();
+            services.AddScoped<IEmailSender, EmailSender>();
+            services.ConfigureApplicationCookie(option =>
+            {
+                option.LoginPath = "/Identity/Account"
+            });
 
             
         }
@@ -53,7 +62,7 @@ namespace WebBanHang
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseSession();

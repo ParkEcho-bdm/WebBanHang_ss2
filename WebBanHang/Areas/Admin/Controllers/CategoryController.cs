@@ -14,7 +14,7 @@ namespace WebBanHang.Controllers
         private readonly ApplicationDbContext _db;
         public CategoryController(ApplicationDbContext db)
         {
-            _db = db;
+            _db = db; 
         }
         //Hiển thị danh sách
         public IActionResult Index()
