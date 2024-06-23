@@ -14,8 +14,22 @@
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="~/shop_demo/css/styles.css" rel="stylesheet" />
     <link rel="stylesheet" href="~/css/site.css" />
+
+
+
+
 </head>
 <body>
+    <!-- Header-->
+    <header style="background-color:lightpink">
+        <div class="container px-4 px-lg-5 ">
+            <div class="text-center text-white">
+
+                <h1 class="display-4 fw-bolder">Shop in style</h1>
+                <p class="lead fw-normal text-white-50 mb-0">With this shop hompeage template</p>
+            </div>
+        </div>
+    </header>
     <!-- Navigation-->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container px-4 px-lg-5">
@@ -27,17 +41,21 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
-                    <li class="nav-item"><a class="nav-link active" aria-current="page" asp-area="Customer" asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" asp-area="Customer"
+                           asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Shop</a>
+                        <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">Shop</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="#!">All Products</a></li>
                             <li><hr class="dropdown-divider" /></li>
-                            <li><a class="dropdown-item" href="#!">Popular Items</a></li>
-                            <li><a class="dropdown-item" href="#!">New Arrivals</a></li>
+                            <li><a class="dropdown-item" href="#!">Iphone</a></li>
+                            <li><a class="dropdown-item" href="#!">SamSung</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -52,21 +70,54 @@
             </div>
         </div>
     </nav>
-    <!-- Header-->
-    <header class="bg-dark py-5">
-        <div class="container px-4 px-lg-5 my-5">
-            <div class="text-center text-white">
-                <h1 class="display-4 fw-bolder">Shop in style</h1>
-                <p class="lead fw-normal text-white-50 mb-0">With this shop hompeage template</p>
-            </div>
-        </div>
-    </header>
+ 
+
+
+
 
     <!-- Section  RenderBody : dành lệnh cho các view-->
     @RenderBody()
     <!-- Footer-->
     <footer class="border-top footer text-muted">
-        <div class="container">
+        <div class="container col-md-12">
+            <div class="row">
+                <div class="col-md-4">
+                    <h3> Tin tức sản phẩm</h3>
+                    <a href="#"> Video </a><br />
+                    <a href="#"> Tin tức  </a><br />
+                    <a href="#"> Help </a>
+                </div>
+
+                <div class="col-md-4">
+                    <h3>Bảo hành</h3>
+                    <span>Chính sách mua hàng</span>
+                    <br />
+                    <span>Chính sách bảo hành</span>
+                    <br />
+                    <span>Trung tâm bảo hành</span>
+                    <br />
+                    <span>Tra cứu bảo hành</span>
+                </div>
+                
+          
+                <div class="col-md-4">
+                    <h3>Thông tin liên hệ</h3>
+                    <address>
+                        Bui Duc Manh
+                        <br />
+                        <abbr title="Phone">Điện thoại:</abbr>
+                        081 288 3636
+                    </address>
+                    <address>
+                        <strong>Email:</strong>   <a href="#">Manh@gmail.com</a><br />
+                    </address>
+                </div>
+            </div>
+
+
+
+
+
             &copy; 2024 - WebBanHang - Bui Duc Manh - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>

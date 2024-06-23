@@ -9,17 +9,17 @@ namespace WebBanHang.Migrations
             migrationBuilder.InsertData(
                 table: "Categories",
                 columns: new[] { "Id", "DisplayOrder", "Name" },
-                values: new object[] { 1, 1, "Điện thoại" });
+                values: new object[] { 1, 1, "Iphone" });
 
             migrationBuilder.InsertData(
                 table: "Categories",
                 columns: new[] { "Id", "DisplayOrder", "Name" },
-                values: new object[] { 2, 2, "Máy tính bảng" });
+                values: new object[] { 2, 2, "SamSung" });
 
             migrationBuilder.InsertData(
                 table: "Categories",
                 columns: new[] { "Id", "DisplayOrder", "Name" },
-                values: new object[] { 3, 3, "Laptop" });
+                values: new object[] { 3, 3, "XaoMi" });
 
             migrationBuilder.InsertData(
                 table: "Products",
@@ -36,8 +36,12 @@ namespace WebBanHang.Migrations
                     { 8, 1, null, null, "Iphone 14 Pro", 950.0 },
                     { 9, 1, null, null, "Iphone 15", 1200.0 },
                     { 10, 1, null, null, "Iphone 15 Pro Max ", 1450.0 },
-                    { 11, 2, null, null, "Ipad Gen 10", 750.0 },
-                    { 12, 2, null, null, "Ipad Pro 11", 1250.0 }
+                    { 11, 2, null, null, "SamSung Gen 10", 750.0 },
+                    { 12, 2, null, null, "SamSung 11", 1250.0 },
+                     { 13, 2, null, null, "SamSung A50", 1250.0 },
+                      { 14, 2, null, null, "SamSung A11s", 1250.0 },
+                       { 15, 3, null, null, "XaMi", 1250.0 },
+                        { 16, 3, null, null, "XaoMi 11s", 1250.0 },
                 });
         }
 

@@ -20,4 +20,33 @@
     <Folder Include="wwwroot\images\products\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\HinhanhSP\avt2.jpg" />
+    <None Include="wwwroot\HinhanhSP\avt3.jpg" />
+    <None Include="wwwroot\HinhanhSP\avt4.jpg" />
+    <None Include="wwwroot\HinhanhSP\ban1.jpg" />
+    <None Include="wwwroot\HinhanhSP\ban2.jpg" />
+    <None Include="wwwroot\HinhanhSP\banner.png" />
+    <None Include="wwwroot\HinhanhSP\ip3.jpg" />
+    <None Include="wwwroot\HinhanhSP\ip4.jpg" />
+    <None Include="wwwroot\HinhanhSP\ip5.jpg" />
+    <None Include="wwwroot\HinhanhSP\ip6.jpg" />
+    <None Include="wwwroot\HinhanhSP\ip7.jpg" />
+    <None Include="wwwroot\HinhanhSP\logo1.jpg" />
+    <None Include="wwwroot\HinhanhSP\mi31.jpg" />
+    <None Include="wwwroot\HinhanhSP\mi4.jpg" />
+    <None Include="wwwroot\HinhanhSP\mi5.jpg" />
+    <None Include="wwwroot\HinhanhSP\mi6.jpg" />
+    <None Include="wwwroot\HinhanhSP\mi7.jpg" />
+    <None Include="wwwroot\HinhanhSP\qc3.gif" />
+    <None Include="wwwroot\HinhanhSP\spnb1.png" />
+    <None Include="wwwroot\HinhanhSP\spnb2.png" />
+    <None Include="wwwroot\HinhanhSP\spnb3.png" />
+    <None Include="wwwroot\HinhanhSP\ss1.jpg" />
+    <None Include="wwwroot\HinhanhSP\ss2.jpg" />
+    <None Include="wwwroot\HinhanhSP\ss3.jpg" />
+    <None Include="wwwroot\HinhanhSP\ss4.jpg" />
+    <None Include="wwwroot\HinhanhSP\ss5.jpg" />
+  </ItemGroup>
+
 </Project>

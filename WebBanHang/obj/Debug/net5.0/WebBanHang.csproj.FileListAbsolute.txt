@@ -1,0 +1,431 @@
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.AssemblyInfoInputs.cache
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.AssemblyInfo.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.csproj.CoreCompileInputs.cache
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.MvcApplicationPartsAssemblyInfo.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.MvcApplicationPartsAssemblyInfo.cache
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.RazorAssemblyInfo.cache
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.RazorAssemblyInfo.cs
+C:\github\asp\WebBanHang\bin\Debug\net5.0\appsettings.Development.json
+C:\github\asp\WebBanHang\bin\Debug\net5.0\appsettings.json
+C:\github\asp\WebBanHang\bin\Debug\net5.0\WebBanHang.StaticWebAssets.xml
+C:\github\asp\WebBanHang\bin\Debug\net5.0\WebBanHang.exe
+C:\github\asp\WebBanHang\bin\Debug\net5.0\WebBanHang.deps.json
+C:\github\asp\WebBanHang\bin\Debug\net5.0\WebBanHang.runtimeconfig.json
+C:\github\asp\WebBanHang\bin\Debug\net5.0\WebBanHang.runtimeconfig.dev.json
+C:\github\asp\WebBanHang\bin\Debug\net5.0\WebBanHang.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\ref\WebBanHang.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\WebBanHang.pdb
+C:\github\asp\WebBanHang\bin\Debug\net5.0\WebBanHang.Views.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\WebBanHang.Views.pdb
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Humanizer.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\github\asp\WebBanHang\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\github\asp\WebBanHang\obj\Debug\net5.0\staticwebassets\WebBanHang.StaticWebAssets.Manifest.cache
+C:\github\asp\WebBanHang\obj\Debug\net5.0\staticwebassets\WebBanHang.StaticWebAssets.xml
+C:\github\asp\WebBanHang\obj\Debug\net5.0\scopedcss\bundle\WebBanHang.styles.css
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.TagHelpers.input.cache
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.TagHelpers.output.cache
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.RazorCoreGenerate.cache
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Add.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Update.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\ShowAll.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Update.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\_ViewImports.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\_ViewStart.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\Views\Cart\Index.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\Views\Order\Index.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\Views\Order\Result.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\_ViewImports.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\_ViewStart.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Views\Shared\_Fr_Demo.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Views\Shared\_Notification.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.RazorTargetAssemblyInfo.cache
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.RazorTargetAssemblyInfo.cs
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.Views.pdb
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.csproj.CopyComplete
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.dll
+C:\github\asp\WebBanHang\obj\Debug\net5.0\ref\WebBanHang.dll
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.pdb
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.genruntimeconfig.cache
+C:\github\asp\WebBanHang\obj\Debug\net5.0\WebBanHang.csproj.AssemblyReference.cache
+G:\asp _2\WebBanHang\bin\Debug\net5.0\appsettings.Development.json
+G:\asp _2\WebBanHang\bin\Debug\net5.0\appsettings.json
+G:\asp _2\WebBanHang\bin\Debug\net5.0\WebBanHang.StaticWebAssets.xml
+G:\asp _2\WebBanHang\bin\Debug\net5.0\WebBanHang.exe
+G:\asp _2\WebBanHang\bin\Debug\net5.0\WebBanHang.deps.json
+G:\asp _2\WebBanHang\bin\Debug\net5.0\WebBanHang.runtimeconfig.json
+G:\asp _2\WebBanHang\bin\Debug\net5.0\WebBanHang.runtimeconfig.dev.json
+G:\asp _2\WebBanHang\bin\Debug\net5.0\WebBanHang.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\ref\WebBanHang.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\WebBanHang.pdb
+G:\asp _2\WebBanHang\bin\Debug\net5.0\WebBanHang.Views.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\WebBanHang.Views.pdb
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Humanizer.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\asp _2\WebBanHang\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.csproj.AssemblyReference.cache
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.GeneratedMSBuildEditorConfig.editorconfig
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.AssemblyInfoInputs.cache
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.AssemblyInfo.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.csproj.CoreCompileInputs.cache
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.MvcApplicationPartsAssemblyInfo.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.MvcApplicationPartsAssemblyInfo.cache
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.RazorAssemblyInfo.cache
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.RazorAssemblyInfo.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\staticwebassets\WebBanHang.StaticWebAssets.Manifest.cache
+G:\asp _2\WebBanHang\obj\Debug\net5.0\staticwebassets\WebBanHang.StaticWebAssets.xml
+G:\asp _2\WebBanHang\obj\Debug\net5.0\scopedcss\bundle\WebBanHang.styles.css
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.TagHelpers.input.cache
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.TagHelpers.output.cache
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.RazorCoreGenerate.cache
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Add.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Update.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\ShowAll.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Update.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\_ViewImports.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Admin\_ViewStart.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\Views\Cart\Index.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\Views\Order\Index.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\Views\Order\Result.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\_ViewImports.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Customer\_ViewStart.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Views\Shared\_Fr_Demo.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Views\Shared\_Notification.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.RazorTargetAssemblyInfo.cache
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.RazorTargetAssemblyInfo.cs
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.Views.pdb
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.csproj.CopyComplete
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.dll
+G:\asp _2\WebBanHang\obj\Debug\net5.0\ref\WebBanHang.dll
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.pdb
+G:\asp _2\WebBanHang\obj\Debug\net5.0\WebBanHang.genruntimeconfig.cache
+G:\asp _2\WebBanHang\obj\Debug\net5.0\Razor\Views\Shared\Silder.cshtml.g.cs

@@ -23,9 +23,9 @@ namespace WebBanHang.Models
             base.OnModelCreating(modelBuilder);
             //seed data to table Categories
             modelBuilder.Entity<Category>().HasData(
-            new Category { Id = 1, Name = "Điện thoại", DisplayOrder = 1 },
-            new Category { Id = 2, Name = "Máy tính bảng", DisplayOrder = 2 },
-            new Category { Id = 3, Name = "Laptop", DisplayOrder = 3 });
+            new Category { Id = 1, Name = "Iphone", DisplayOrder = 1 },
+            new Category { Id = 2, Name = "SamSung", DisplayOrder = 2 },
+            new Category { Id = 3, Name = "XaoMi", DisplayOrder = 3 });
             //seed data to table Product
             modelBuilder.Entity<Product>().HasData(
             new Product { Id = 1, Name = "Iphone 7", Price = 300, CategoryId = 1 },
@@ -38,8 +38,12 @@ namespace WebBanHang.Models
             new Product { Id = 8, Name = "Iphone 14 Pro", Price = 950, CategoryId = 1 },
             new Product { Id = 9, Name = "Iphone 15", Price = 1200, CategoryId = 1 },
             new Product { Id = 10, Name = "Iphone 15 Pro Max ", Price = 1450, CategoryId = 1 },
-            new Product { Id = 11, Name = "Ipad Gen 10", Price = 750, CategoryId = 2 },
-            new Product { Id = 12, Name = "Ipad Pro 11", Price = 1250, CategoryId = 2 });
+            new Product { Id = 11, Name = "SamSung ", Price = 750, CategoryId = 2 },
+            new Product { Id = 12, Name = "SamSung A11", Price = 1250, CategoryId = 2 },
+            new Product { Id = 13, Name = "SamSung  11s", Price = 1250, CategoryId = 2 },
+             new Product { Id = 14, Name = "SamSung A50s", Price = 1250, CategoryId = 2 },
+              new Product { Id = 15, Name = "SamSung  11s", Price = 1250, CategoryId = 2 }
+            );
         }
     }
 }
